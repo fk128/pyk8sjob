@@ -1,0 +1,5 @@
+kubernetes==12.0.0
+pydantic==1.8.2
+typer==0.6.1
+loguru==0.5.3
+rich==12.5.1
